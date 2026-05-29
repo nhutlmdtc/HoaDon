@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Hóa đơn Google Sheets",
+  "description": "Tự động trích xuất hóa đơn bằng AI cho CÔNG TY CP ĐẦU TƯ XÂY DỰNG VIỄN THÔNG ĐỒNG THÁP và đồng bộ hóa trực tiếp vào Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
